@@ -1,0 +1,60 @@
+.shadow{
+    box-shadow: 1px 3px 10px 4px #b5abab;
+    border-radius: 20px;
+}
+
+
+.login-title{
+    z-index: 5;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: -3px;
+    left: 50%;
+    font-size: 20px;
+    width: 170px;
+    height: 40px;
+    font-family: IRANSans;
+    border: #534e4e 1px solid;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.up-shape{
+    position: absolute;
+    transform: translate(-50%, 0);
+    left: 50%;
+    font-size: 24px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    background: #3C5692;
+}
+
+
+
+
+.more-download{
+    text-align: center;
+    display: inline-block;
+    margin: 130px 0 0 200px;
+    position: absolute;
+    height: 500px;
+    width: 250px;
+    background: #FFFFFF;
+
+}
+
+.more-reserves{
+    text-align: center;
+    display: inline-block;
+    margin: 130px 0 0 650px;
+    position: absolute;
+    height: 500px;
+    width: 250px;
+    background: #FFFFFF;
+}
+
+
+.book-rate-content{
+    padding: 40px 0 0 0;
+}

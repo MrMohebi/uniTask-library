@@ -1,0 +1,96 @@
+.main-container-signup{
+    position: absolute;
+    z-index: 5;
+    text-align: center;
+    height: 500px;
+    width: 340px;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 3px 10px 4px #b5abab;
+    border-radius: 20px;
+}
+
+.login-box{
+    width: 100%;
+    height: 100%;
+    opacity: 30%;
+    background: #FFFFFF;
+}
+
+.signup-header{
+    z-index: 5;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: -3px;
+    left: 50%;
+    font-size: 24px;
+    width: 220px;
+    height: 40px;
+    font-family: IRANSans;
+    border: #534e4e 1px solid;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.up-shape{
+    position: absolute;
+    transform: translate(-50%, 0);
+    left: 50%;
+    font-size: 24px;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    background: #3C5692;
+}
+
+.MuiInputLabel-formControl {
+    font-family: IRANSans !important ;
+}
+.MuiInputBase-input{
+    font-family:IRANSans !important ;
+}
+
+.name-inp{
+    margin-top: 50px;
+}
+
+
+.idCard-inp{
+    margin-top: 25px;
+}
+
+.phone-inp{
+    margin-top: 25px;
+}
+
+
+.password-inp{
+    margin-top: 25px;
+}
+
+
+.email-inp{
+    margin-top: 25px;
+}
+
+.submit-btn{
+    margin-top: 40px;
+}
+
+
+.submit-btn  .MuiButton-root{
+    width: 120px ;
+}
+.MuiButton-label{
+    font-family: IRANSans ;
+}
+
+.login-btn-sup{
+    position: absolute;
+    margin: 0 0 10px 10px;
+}
+
+.login-btn-sup  .MuiButton-root{
+    width: 60px ;
+}

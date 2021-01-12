@@ -1,0 +1,54 @@
+.main-container-sidebar{
+    position: absolute;
+    margin-left: calc(100% - 250px);
+    height: 100%;
+    width: 250px;
+    background: linear-gradient(0deg, rgba(241,243,255,1) 0%, rgba(255,252,252,1) 100%);
+    border-radius: 10px;
+    box-shadow: 1px 3px 10px 4px #b5abab;
+
+}
+
+.navList{
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+.nav-header{
+    margin: 15px 0 0 30px ;
+    text-align: center;
+    font-size: 24px;
+}
+
+
+ul{
+    width: 100%;
+
+    text-align: right;
+    float: right;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: IRANSansMobile_Light;
+}
+
+ul .selected{
+    font-family: IRANSansMobile_med;
+    background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0) calc(100% - 3px), rgba(0,0,0,1) calc(100% - 3px), rgba(0,0,0,1) 100%);
+}
+
+li a{
+    color: black;
+    text-decoration: none;
+    padding: 0 20px 0 0;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+li{
+    text-align: right;
+}
+

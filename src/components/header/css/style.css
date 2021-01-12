@@ -1,0 +1,18 @@
+.header{
+    position: absolute;
+    top: -110px;
+    height: 200px;
+    width: 100%;
+    background-color: #3C5692;
+    border-radius: 50%;
+}
+
+.text-header{
+    color: #ffffff;
+    font-family:IRANSans;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    margin-top: 150px;
+    font-size: 30px;
+}

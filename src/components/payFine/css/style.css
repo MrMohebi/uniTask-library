@@ -1,0 +1,17 @@
+.main-container-PayFine{
+    text-align: center;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.amount{
+    margin: 0 0 30px 0;
+}
+
+.pay-button{
+
+}

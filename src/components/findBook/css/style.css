@@ -1,0 +1,20 @@
+.main-container-findBook{
+    text-align: center;
+    margin: 100px 0 0 30px;
+    box-shadow: 1px 3px 10px 4px #b5abab;
+    border-radius: 20px;
+    background: #FFFFFF;
+    position: absolute;
+    width: 900px;
+    height: 500px;
+}
+
+.table-container{
+    width: 900px;
+    height: 400px;
+}
+
+
+.search-bar{
+    padding: 10px;
+}

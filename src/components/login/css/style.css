@@ -1,0 +1,76 @@
+.main-container-login{
+    position: absolute;
+    z-index: 5;
+    text-align: center;
+    height: 400px;
+    width: 340px;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 3px 10px 4px #b5abab;
+    border-radius: 20px;
+}
+
+.login-box{
+    width: 100%;
+    height: 100%;
+    opacity: 30%;
+    background: #FFFFFF;
+}
+
+.login-header{
+    z-index: 5;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: -3px;
+    left: 50%;
+    font-size: 24px;
+    width: 220px;
+    height: 40px;
+    font-family: IRANSans;
+    border: #534e4e 1px solid;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.up-shape{
+    position: absolute;
+    transform: translate(-50%, 0);
+    left: 50%;
+    font-size: 24px;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    background: #3C5692;
+}
+
+.username-inp{
+    margin-top: 100px;
+}
+
+
+.password-inp{
+    margin-top: 50px;
+}
+
+.submit-btn{
+    margin-top: 50px;
+}
+
+
+
+.submit-btn  .MuiButton-root{
+    width: 120px ;
+}
+.MuiButton-label{
+    font-family: IRANSans ;
+}
+
+.signup-btn{
+    position: absolute;
+    margin: 50px 0 10px 10px;
+}
+
+.signup-btn  .MuiButton-root{
+    width: 90px ;
+}
